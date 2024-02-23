@@ -1,0 +1,17 @@
+E:\Curso\C#\Filipe Brito\PortalDoAluno\PortalDoAluno\bin\Debug\net8.0-windows\PortalDoAluno.exe
+E:\Curso\C#\Filipe Brito\PortalDoAluno\PortalDoAluno\bin\Debug\net8.0-windows\PortalDoAluno.deps.json
+E:\Curso\C#\Filipe Brito\PortalDoAluno\PortalDoAluno\bin\Debug\net8.0-windows\PortalDoAluno.runtimeconfig.json
+E:\Curso\C#\Filipe Brito\PortalDoAluno\PortalDoAluno\bin\Debug\net8.0-windows\PortalDoAluno.dll
+E:\Curso\C#\Filipe Brito\PortalDoAluno\PortalDoAluno\bin\Debug\net8.0-windows\PortalDoAluno.pdb
+E:\Curso\C#\Filipe Brito\PortalDoAluno\PortalDoAluno\obj\Debug\net8.0-windows\PortalDoAluno.Form1.resources
+E:\Curso\C#\Filipe Brito\PortalDoAluno\PortalDoAluno\obj\Debug\net8.0-windows\PortalDoAluno.Properties.Resources.resources
+E:\Curso\C#\Filipe Brito\PortalDoAluno\PortalDoAluno\obj\Debug\net8.0-windows\PortalDoAluno.csproj.GenerateResource.cache
+E:\Curso\C#\Filipe Brito\PortalDoAluno\PortalDoAluno\obj\Debug\net8.0-windows\PortalDoAluno.GeneratedMSBuildEditorConfig.editorconfig
+E:\Curso\C#\Filipe Brito\PortalDoAluno\PortalDoAluno\obj\Debug\net8.0-windows\PortalDoAluno.AssemblyInfoInputs.cache
+E:\Curso\C#\Filipe Brito\PortalDoAluno\PortalDoAluno\obj\Debug\net8.0-windows\PortalDoAluno.AssemblyInfo.cs
+E:\Curso\C#\Filipe Brito\PortalDoAluno\PortalDoAluno\obj\Debug\net8.0-windows\PortalDoAluno.csproj.CoreCompileInputs.cache
+E:\Curso\C#\Filipe Brito\PortalDoAluno\PortalDoAluno\obj\Debug\net8.0-windows\PortalDoAluno.dll
+E:\Curso\C#\Filipe Brito\PortalDoAluno\PortalDoAluno\obj\Debug\net8.0-windows\refint\PortalDoAluno.dll
+E:\Curso\C#\Filipe Brito\PortalDoAluno\PortalDoAluno\obj\Debug\net8.0-windows\PortalDoAluno.pdb
+E:\Curso\C#\Filipe Brito\PortalDoAluno\PortalDoAluno\obj\Debug\net8.0-windows\PortalDoAluno.genruntimeconfig.cache
+E:\Curso\C#\Filipe Brito\PortalDoAluno\PortalDoAluno\obj\Debug\net8.0-windows\ref\PortalDoAluno.dll
